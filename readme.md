@@ -1,0 +1,1 @@
+Several C++ programming assignments completed for COP4530 (Data Structures).
