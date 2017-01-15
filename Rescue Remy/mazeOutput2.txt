@@ -1,0 +1,37 @@
+Welcome to the Rat in the Maze program, where we will find a
+path from the start cell to the end cell of a maze so that Remy
+may escape.  You will first enter the data specifying the maze.
+After that, if escape is possible, we show an escape path using
+DFS and then a shortest possible path.
+
+Enter the size (number of rows and columns of the square maze): 
+
+
+Enter the start position
+row index: column index: 
+Enter the exit position
+row index: column index: 
+
+For each row, enter the column indexes of the open positions,
+separated by spaces and terminated by an entry of 0
+
+row 1: 
+row 2: 
+row 3: 
+row 4: 
+row 5: 
+
+Constructed Maze:
+
+*******
+*s|****
+*|*****
+*|*****
+*|*****
+*****e*
+*******
+
+Oh no, Poor Remy! There is now way to escape from the maze.
+
+Oh no, Poor Remy! There is now way to escape from the maze.
+
